@@ -3,6 +3,8 @@
 Maintain a projection of a MongoDB collection in memory on your Meteor server,
 for awesome possibilities!
 
+Available on [Atmosphere](https://atmospherejs.com/qualia/mapped-collection).
+
 ## Usage
 
 Let's say we have a collection of `Orders` and we want to search through them,
